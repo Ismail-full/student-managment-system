@@ -16,3 +16,6 @@ change in README.md on GitHub
 
 ![Screenshot](https://i.ibb.co/mCSPpLSd/screen-test.png)
 
+# Challenges Faced
+- adding image to README.md
+- mergin conflict
